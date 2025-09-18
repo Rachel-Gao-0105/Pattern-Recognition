@@ -1,0 +1,111 @@
+Training set: 9664
+Testinf set: 1120
+Validation set: 544
+
+Epoch 1/100: Train Loss=0.9675, Val DSC_BG=0.7595, Val DSC_DeepGray=0.0000, Val DSC_LightGray=0.3456, Val DSC_White=0.0000
+Epoch 2/100: Train Loss=0.9656, Val DSC_BG=0.8511, Val DSC_DeepGray=0.0000, Val DSC_LightGray=0.2144, Val DSC_White=0.6255
+Epoch 3/100: Train Loss=0.9437, Val DSC_BG=0.9597, Val DSC_DeepGray=0.2259, Val DSC_LightGray=0.2890, Val DSC_White=0.6421
+Epoch 4/100: Train Loss=0.9068, Val DSC_BG=0.9586, Val DSC_DeepGray=0.2263, Val DSC_LightGray=0.3908, Val DSC_White=0.6475
+Epoch 5/100: Train Loss=0.8982, Val DSC_BG=0.9571, Val DSC_DeepGray=0.2344, Val DSC_LightGray=0.3496, Val DSC_White=0.6552
+Epoch 6/100: Train Loss=0.8912, Val DSC_BG=0.9712, Val DSC_DeepGray=0.3351, Val DSC_LightGray=0.4412, Val DSC_White=0.6633
+Epoch 7/100: Train Loss=0.8868, Val DSC_BG=0.9711, Val DSC_DeepGray=0.3272, Val DSC_LightGray=0.4084, Val DSC_White=0.6666
+Epoch 8/100: Train Loss=0.8831, Val DSC_BG=0.9786, Val DSC_DeepGray=0.3912, Val DSC_LightGray=0.5299, Val DSC_White=0.5585
+Epoch 9/100: Train Loss=0.8790, Val DSC_BG=0.9756, Val DSC_DeepGray=0.3800, Val DSC_LightGray=0.5141, Val DSC_White=0.6545
+Epoch 10/100: Train Loss=0.8750, Val DSC_BG=0.9777, Val DSC_DeepGray=0.3979, Val DSC_LightGray=0.5061, Val DSC_White=0.6765
+Epoch 11/100: Train Loss=0.8713, Val DSC_BG=0.9769, Val DSC_DeepGray=0.4223, Val DSC_LightGray=0.4217, Val DSC_White=0.6740
+Epoch 12/100: Train Loss=0.8726, Val DSC_BG=0.9814, Val DSC_DeepGray=0.5081, Val DSC_LightGray=0.5606, Val DSC_White=0.6237
+Epoch 13/100: Train Loss=0.8637, Val DSC_BG=0.9821, Val DSC_DeepGray=0.5276, Val DSC_LightGray=0.5591, Val DSC_White=0.6841
+Epoch 14/100: Train Loss=0.8589, Val DSC_BG=0.9831, Val DSC_DeepGray=0.5561, Val DSC_LightGray=0.5834, Val DSC_White=0.6770
+Epoch 15/100: Train Loss=0.8558, Val DSC_BG=0.9838, Val DSC_DeepGray=0.5625, Val DSC_LightGray=0.5665, Val DSC_White=0.6949
+Epoch 16/100: Train Loss=0.8562, Val DSC_BG=0.9849, Val DSC_DeepGray=0.5711, Val DSC_LightGray=0.5707, Val DSC_White=0.7065
+Epoch 17/100: Train Loss=0.8545, Val DSC_BG=0.9828, Val DSC_DeepGray=0.5699, Val DSC_LightGray=0.5790, Val DSC_White=0.7115
+Epoch 18/100: Train Loss=0.8489, Val DSC_BG=0.9871, Val DSC_DeepGray=0.5925, Val DSC_LightGray=0.6243, Val DSC_White=0.7069
+Epoch 19/100: Train Loss=0.8460, Val DSC_BG=0.9885, Val DSC_DeepGray=0.5991, Val DSC_LightGray=0.6349, Val DSC_White=0.7199
+Epoch 20/100: Train Loss=0.8436, Val DSC_BG=0.9899, Val DSC_DeepGray=0.6085, Val DSC_LightGray=0.6424, Val DSC_White=0.7329
+Epoch 21/100: Train Loss=0.8412, Val DSC_BG=0.9909, Val DSC_DeepGray=0.6247, Val DSC_LightGray=0.6532, Val DSC_White=0.7360
+Epoch 22/100: Train Loss=0.8388, Val DSC_BG=0.9909, Val DSC_DeepGray=0.6292, Val DSC_LightGray=0.6591, Val DSC_White=0.7515
+Epoch 23/100: Train Loss=0.8367, Val DSC_BG=0.9928, Val DSC_DeepGray=0.6447, Val DSC_LightGray=0.6784, Val DSC_White=0.7534
+Epoch 24/100: Train Loss=0.8376, Val DSC_BG=0.9894, Val DSC_DeepGray=0.6315, Val DSC_LightGray=0.6616, Val DSC_White=0.7726
+Epoch 25/100: Train Loss=0.8330, Val DSC_BG=0.9932, Val DSC_DeepGray=0.6521, Val DSC_LightGray=0.6939, Val DSC_White=0.7836
+Epoch 26/100: Train Loss=0.8300, Val DSC_BG=0.9934, Val DSC_DeepGray=0.6665, Val DSC_LightGray=0.7067, Val DSC_White=0.7886
+Epoch 27/100: Train Loss=0.8278, Val DSC_BG=0.9941, Val DSC_DeepGray=0.6729, Val DSC_LightGray=0.7138, Val DSC_White=0.8022
+Epoch 28/100: Train Loss=0.8263, Val DSC_BG=0.9938, Val DSC_DeepGray=0.6762, Val DSC_LightGray=0.7178, Val DSC_White=0.8125
+Epoch 29/100: Train Loss=0.8254, Val DSC_BG=0.9946, Val DSC_DeepGray=0.6827, Val DSC_LightGray=0.7275, Val DSC_White=0.8180
+Epoch 30/100: Train Loss=0.8229, Val DSC_BG=0.9948, Val DSC_DeepGray=0.6884, Val DSC_LightGray=0.7315, Val DSC_White=0.8231
+Epoch 31/100: Train Loss=0.8212, Val DSC_BG=0.9948, Val DSC_DeepGray=0.6905, Val DSC_LightGray=0.7351, Val DSC_White=0.8287
+Epoch 32/100: Train Loss=0.8199, Val DSC_BG=0.9950, Val DSC_DeepGray=0.6972, Val DSC_LightGray=0.7426, Val DSC_White=0.8297
+Epoch 33/100: Train Loss=0.8187, Val DSC_BG=0.9950, Val DSC_DeepGray=0.7022, Val DSC_LightGray=0.7435, Val DSC_White=0.8347
+Epoch 34/100: Train Loss=0.8174, Val DSC_BG=0.9956, Val DSC_DeepGray=0.7099, Val DSC_LightGray=0.7517, Val DSC_White=0.8363
+Epoch 35/100: Train Loss=0.8176, Val DSC_BG=0.9937, Val DSC_DeepGray=0.7041, Val DSC_LightGray=0.7447, Val DSC_White=0.8409
+Epoch 36/100: Train Loss=0.8161, Val DSC_BG=0.9953, Val DSC_DeepGray=0.7152, Val DSC_LightGray=0.7602, Val DSC_White=0.8424
+Epoch 37/100: Train Loss=0.8140, Val DSC_BG=0.9953, Val DSC_DeepGray=0.7173, Val DSC_LightGray=0.7612, Val DSC_White=0.8469
+Epoch 38/100: Train Loss=0.8139, Val DSC_BG=0.9955, Val DSC_DeepGray=0.7235, Val DSC_LightGray=0.7654, Val DSC_White=0.8491
+Epoch 39/100: Train Loss=0.8127, Val DSC_BG=0.9955, Val DSC_DeepGray=0.7273, Val DSC_LightGray=0.7705, Val DSC_White=0.8514
+Epoch 40/100: Train Loss=0.8115, Val DSC_BG=0.9956, Val DSC_DeepGray=0.7271, Val DSC_LightGray=0.7763, Val DSC_White=0.8536
+Epoch 41/100: Train Loss=0.8101, Val DSC_BG=0.9953, Val DSC_DeepGray=0.7352, Val DSC_LightGray=0.7719, Val DSC_White=0.8588
+Epoch 42/100: Train Loss=0.8098, Val DSC_BG=0.9946, Val DSC_DeepGray=0.7335, Val DSC_LightGray=0.7748, Val DSC_White=0.8607
+Epoch 43/100: Train Loss=0.8084, Val DSC_BG=0.9962, Val DSC_DeepGray=0.7491, Val DSC_LightGray=0.7836, Val DSC_White=0.8625
+Epoch 44/100: Train Loss=0.8073, Val DSC_BG=0.9963, Val DSC_DeepGray=0.7548, Val DSC_LightGray=0.7891, Val DSC_White=0.8634
+Epoch 45/100: Train Loss=0.8058, Val DSC_BG=0.9961, Val DSC_DeepGray=0.7595, Val DSC_LightGray=0.7915, Val DSC_White=0.8644
+Epoch 46/100: Train Loss=0.8051, Val DSC_BG=0.9962, Val DSC_DeepGray=0.7647, Val DSC_LightGray=0.7953, Val DSC_White=0.8649
+Epoch 47/100: Train Loss=0.8052, Val DSC_BG=0.9963, Val DSC_DeepGray=0.7642, Val DSC_LightGray=0.8016, Val DSC_White=0.8699
+Epoch 48/100: Train Loss=0.8039, Val DSC_BG=0.9963, Val DSC_DeepGray=0.7660, Val DSC_LightGray=0.7969, Val DSC_White=0.8762
+Epoch 49/100: Train Loss=0.8021, Val DSC_BG=0.9964, Val DSC_DeepGray=0.7770, Val DSC_LightGray=0.8060, Val DSC_White=0.8765
+Epoch 50/100: Train Loss=0.8018, Val DSC_BG=0.9965, Val DSC_DeepGray=0.7749, Val DSC_LightGray=0.8072, Val DSC_White=0.8810
+Epoch 51/100: Train Loss=0.8018, Val DSC_BG=0.9965, Val DSC_DeepGray=0.7879, Val DSC_LightGray=0.8067, Val DSC_White=0.8636
+Epoch 52/100: Train Loss=0.7996, Val DSC_BG=0.9967, Val DSC_DeepGray=0.7911, Val DSC_LightGray=0.8173, Val DSC_White=0.8822
+Epoch 53/100: Train Loss=0.7988, Val DSC_BG=0.9967, Val DSC_DeepGray=0.7966, Val DSC_LightGray=0.8204, Val DSC_White=0.8830
+Epoch 54/100: Train Loss=0.7986, Val DSC_BG=0.9951, Val DSC_DeepGray=0.7620, Val DSC_LightGray=0.8157, Val DSC_White=0.8881
+Epoch 55/100: Train Loss=0.7985, Val DSC_BG=0.9965, Val DSC_DeepGray=0.8019, Val DSC_LightGray=0.8253, Val DSC_White=0.8836
+Epoch 56/100: Train Loss=0.7970, Val DSC_BG=0.9967, Val DSC_DeepGray=0.8071, Val DSC_LightGray=0.8253, Val DSC_White=0.8868
+Epoch 57/100: Train Loss=0.7963, Val DSC_BG=0.9954, Val DSC_DeepGray=0.7980, Val DSC_LightGray=0.8285, Val DSC_White=0.8923
+Epoch 58/100: Train Loss=0.7952, Val DSC_BG=0.9966, Val DSC_DeepGray=0.8146, Val DSC_LightGray=0.8326, Val DSC_White=0.8910
+Epoch 59/100: Train Loss=0.7945, Val DSC_BG=0.9968, Val DSC_DeepGray=0.8126, Val DSC_LightGray=0.8366, Val DSC_White=0.8967
+Epoch 60/100: Train Loss=0.7937, Val DSC_BG=0.9963, Val DSC_DeepGray=0.8125, Val DSC_LightGray=0.8344, Val DSC_White=0.8984
+Epoch 61/100: Train Loss=0.7925, Val DSC_BG=0.9969, Val DSC_DeepGray=0.8239, Val DSC_LightGray=0.8445, Val DSC_White=0.9007
+Epoch 62/100: Train Loss=0.7926, Val DSC_BG=0.9965, Val DSC_DeepGray=0.8254, Val DSC_LightGray=0.8456, Val DSC_White=0.9024
+Epoch 63/100: Train Loss=0.7911, Val DSC_BG=0.9962, Val DSC_DeepGray=0.8275, Val DSC_LightGray=0.8505, Val DSC_White=0.9035
+Epoch 64/100: Train Loss=0.7910, Val DSC_BG=0.9970, Val DSC_DeepGray=0.8404, Val DSC_LightGray=0.8506, Val DSC_White=0.8988
+Epoch 65/100: Train Loss=0.7892, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8439, Val DSC_LightGray=0.8563, Val DSC_White=0.9071
+Epoch 66/100: Train Loss=0.7888, Val DSC_BG=0.9966, Val DSC_DeepGray=0.8400, Val DSC_LightGray=0.8564, Val DSC_White=0.9097
+Epoch 67/100: Train Loss=0.7880, Val DSC_BG=0.9969, Val DSC_DeepGray=0.8412, Val DSC_LightGray=0.8601, Val DSC_White=0.9116
+Epoch 68/100: Train Loss=0.7872, Val DSC_BG=0.9969, Val DSC_DeepGray=0.8478, Val DSC_LightGray=0.8659, Val DSC_White=0.9132
+Epoch 69/100: Train Loss=0.7867, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8565, Val DSC_LightGray=0.8647, Val DSC_White=0.9111
+Epoch 70/100: Train Loss=0.7860, Val DSC_BG=0.9968, Val DSC_DeepGray=0.8576, Val DSC_LightGray=0.8719, Val DSC_White=0.9148
+Epoch 71/100: Train Loss=0.7853, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8615, Val DSC_LightGray=0.8746, Val DSC_White=0.9180
+Epoch 72/100: Train Loss=0.7846, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8665, Val DSC_LightGray=0.8756, Val DSC_White=0.9138
+Epoch 73/100: Train Loss=0.7843, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8474, Val DSC_LightGray=0.8695, Val DSC_White=0.9200
+Epoch 74/100: Train Loss=0.7833, Val DSC_BG=0.9972, Val DSC_DeepGray=0.8703, Val DSC_LightGray=0.8820, Val DSC_White=0.9203
+Epoch 75/100: Train Loss=0.7825, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8612, Val DSC_LightGray=0.8815, Val DSC_White=0.9253
+Epoch 76/100: Train Loss=0.7825, Val DSC_BG=0.9973, Val DSC_DeepGray=0.8740, Val DSC_LightGray=0.8869, Val DSC_White=0.9265
+Epoch 77/100: Train Loss=0.7818, Val DSC_BG=0.9973, Val DSC_DeepGray=0.8740, Val DSC_LightGray=0.8892, Val DSC_White=0.9280
+Epoch 78/100: Train Loss=0.7811, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8745, Val DSC_LightGray=0.8903, Val DSC_White=0.9281
+Epoch 79/100: Train Loss=0.7811, Val DSC_BG=0.9973, Val DSC_DeepGray=0.8797, Val DSC_LightGray=0.8918, Val DSC_White=0.9274
+Epoch 80/100: Train Loss=0.7803, Val DSC_BG=0.9974, Val DSC_DeepGray=0.8807, Val DSC_LightGray=0.8940, Val DSC_White=0.9296
+Epoch 81/100: Train Loss=0.7800, Val DSC_BG=0.9972, Val DSC_DeepGray=0.8771, Val DSC_LightGray=0.8959, Val DSC_White=0.9330
+Epoch 82/100: Train Loss=0.7800, Val DSC_BG=0.9971, Val DSC_DeepGray=0.8781, Val DSC_LightGray=0.8930, Val DSC_White=0.9334
+Epoch 83/100: Train Loss=0.7796, Val DSC_BG=0.9970, Val DSC_DeepGray=0.8798, Val DSC_LightGray=0.8935, Val DSC_White=0.9275
+Epoch 84/100: Train Loss=0.7793, Val DSC_BG=0.9973, Val DSC_DeepGray=0.8858, Val DSC_LightGray=0.8998, Val DSC_White=0.9335
+Epoch 85/100: Train Loss=0.7786, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8856, Val DSC_LightGray=0.8992, Val DSC_White=0.9368
+Epoch 86/100: Train Loss=0.7781, Val DSC_BG=0.9974, Val DSC_DeepGray=0.8900, Val DSC_LightGray=0.9028, Val DSC_White=0.9361
+Epoch 87/100: Train Loss=0.7775, Val DSC_BG=0.9972, Val DSC_DeepGray=0.8861, Val DSC_LightGray=0.9040, Val DSC_White=0.9388
+Epoch 88/100: Train Loss=0.7778, Val DSC_BG=0.9974, Val DSC_DeepGray=0.8903, Val DSC_LightGray=0.9057, Val DSC_White=0.9382
+Epoch 89/100: Train Loss=0.7773, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8917, Val DSC_LightGray=0.9060, Val DSC_White=0.9407
+Epoch 90/100: Train Loss=0.7775, Val DSC_BG=0.9958, Val DSC_DeepGray=0.8796, Val DSC_LightGray=0.9040, Val DSC_White=0.9388
+Epoch 91/100: Train Loss=0.7771, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8891, Val DSC_LightGray=0.9065, Val DSC_White=0.9417
+Epoch 92/100: Train Loss=0.7765, Val DSC_BG=0.9974, Val DSC_DeepGray=0.8960, Val DSC_LightGray=0.9096, Val DSC_White=0.9426
+Epoch 93/100: Train Loss=0.7759, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8981, Val DSC_LightGray=0.9106, Val DSC_White=0.9415
+Epoch 94/100: Train Loss=0.7757, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8945, Val DSC_LightGray=0.9122, Val DSC_White=0.9441
+Epoch 95/100: Train Loss=0.7758, Val DSC_BG=0.9962, Val DSC_DeepGray=0.8751, Val DSC_LightGray=0.9068, Val DSC_White=0.9437
+Epoch 96/100: Train Loss=0.7772, Val DSC_BG=0.9960, Val DSC_DeepGray=0.8795, Val DSC_LightGray=0.8895, Val DSC_White=0.9225
+Epoch 97/100: Train Loss=0.7773, Val DSC_BG=0.9975, Val DSC_DeepGray=0.8942, Val DSC_LightGray=0.9121, Val DSC_White=0.9456
+Epoch 98/100: Train Loss=0.7751, Val DSC_BG=0.9972, Val DSC_DeepGray=0.8907, Val DSC_LightGray=0.9105, Val DSC_White=0.9450
+Epoch 99/100: Train Loss=0.7746, Val DSC_BG=0.9976, Val DSC_DeepGray=0.9024, Val DSC_LightGray=0.9167, Val DSC_White=0.9469
+Epoch 100/100: Train Loss=0.7741, Val DSC_BG=0.9976, Val DSC_DeepGray=0.9015, Val DSC_LightGray=0.9175, Val DSC_White=0.9479
+
+Testing: 
+Avg DSC_BG = 0.9974
+Avg DSC_DeepGray = 0.9336
+Avg DSC_LightGray = 0.9029
+Avg DSC_White = 0.9437
+Save to segmentation_results.png
